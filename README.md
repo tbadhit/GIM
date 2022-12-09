@@ -1,7 +1,7 @@
 # GIM
 An iOS game catalogue application using RAWG.io API
 
-This repository is my submission for a class on Learn The Fundamental of iOS Application ([Belajar Fundamental Aplikasi iOS](https://www.dicoding.com/academies/202)) in dicoding, I've enrolled in this class as a part of the IDCamp 2022 scholarship program by Indosat Ooredoo and Dicoding Indonesia.
+This repository is my submission for a class Learn The Fundamental of iOS Application ([Belajar Fundamental Aplikasi iOS](https://www.dicoding.com/academies/202)) in dicoding, I've enrolled in this class as a part of the IDCamp 2022 scholarship program by Indosat Ooredoo and Dicoding Indonesia.
 
 ## Screenshots
 <img src="https://user-images.githubusercontent.com/75456232/206498358-d4b69980-9c91-4171-ab59-6f6c17b6a6ff.png" width="256" title="Game Main">&nbsp;
