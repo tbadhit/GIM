@@ -31,3 +31,6 @@ This repository is my submission for a class Learn The Fundamental of iOS Applic
 - [Alamofire](https://github.com/Alamofire/Alamofire)
 - [SkeletonView](https://github.com/Juanpe/SkeletonView)
 - [SwiftLint](https://github.com/realm/SwiftLint)
+
+### Design Pattren
+-  MVC (Model-View-Controller)
